@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/turepo/static/css/main.ddc3cd43.css",
+    "main.js": "/turepo/static/js/main.ade6426b.js",
+    "static/media/illimani.jpg": "/turepo/static/media/illimani.51589ac2b07b3da10555.jpg",
+    "index.html": "/turepo/index.html",
+    "main.ddc3cd43.css.map": "/turepo/static/css/main.ddc3cd43.css.map",
+    "main.ade6426b.js.map": "/turepo/static/js/main.ade6426b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddc3cd43.css",
+    "static/js/main.ade6426b.js"
+  ]
+}
